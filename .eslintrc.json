@@ -11,7 +11,7 @@
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off"
   },
-  "plugins": ["react", "jsx-a11y", "import", "prettier"],
+  "plugins": ["react", "typescript", "jsx-a11y", "import", "prettier"],
   "parser": "@babel/eslint-parser",
   "parserOptions": {
     "ecmaVersion": 2021,
